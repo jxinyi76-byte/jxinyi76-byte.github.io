@@ -1,0 +1,461 @@
+{
+  "pinfenghuang": [
+    {"file":"01-cover.jpg","label":"品牌全案封面","sourceDimensions":[3508,2480]},
+    {"file":"02-preface.jpg","label":"前言","sourceDimensions":[3508,2480]},
+    {"file":"03-logo-grid.jpg","label":"品牌标志规范","sourceDimensions":[3508,2480]},
+    {"file":"04-logotype.jpg","label":"品牌标准字规范","sourceDimensions":[3508,2480]},
+    {"file":"05-symbol.jpg","label":"辅助图形规范","sourceDimensions":[3508,2480]},
+    {"file":"06-mascot.jpg","label":"IP形象设计","sourceDimensions":[3508,2480]},
+    {"file":"07-packaging.jpg","label":"包装设计","sourceDimensions":[3508,2480]},
+    {"file":"08-applications.jpg","label":"应用展示","sourceDimensions":[3508,2480]},
+    {"file":"09-closing.jpg","label":"视觉收束页","sourceDimensions":[3508,2480]}
+  ],
+  "board": [
+    {"file":"studio-workspace.webp","label":"Projects拍立得工作室照片","sourceDimensions":[961,1280]}
+  ],
+  "pictureBook": [
+    {
+      "file": "cover.jpg",
+      "source": "封面.png",
+      "label": "封面",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-03.jpg",
+      "source": "绘本-03.png",
+      "label": "第 3 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-04.jpg",
+      "source": "绘本-04.png",
+      "label": "第 4 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-05.jpg",
+      "source": "绘本-05.png",
+      "label": "第 5 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-06.jpg",
+      "source": "绘本-06.png",
+      "label": "第 6 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-07.jpg",
+      "source": "绘本-07.png",
+      "label": "第 7 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-08.jpg",
+      "source": "绘本-08.png",
+      "label": "第 8 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-09.jpg",
+      "source": "绘本-09.png",
+      "label": "第 9 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-10.jpg",
+      "source": "绘本-10.png",
+      "label": "第 10 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-11.jpg",
+      "source": "绘本-11.png",
+      "label": "第 11 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-12.jpg",
+      "source": "绘本-12.png",
+      "label": "第 12 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-13.jpg",
+      "source": "绘本-13.png",
+      "label": "第 13 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-14.jpg",
+      "source": "绘本-14.png",
+      "label": "第 14 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-15.jpg",
+      "source": "绘本-15.png",
+      "label": "第 15 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-16.jpg",
+      "source": "绘本-16.png",
+      "label": "第 16 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-17.jpg",
+      "source": "绘本-17.png",
+      "label": "第 17 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-18.jpg",
+      "source": "绘本-18.png",
+      "label": "第 18 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-19.jpg",
+      "source": "绘本-19.png",
+      "label": "第 19 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-20.jpg",
+      "source": "绘本-20.png",
+      "label": "第 20 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-21.jpg",
+      "source": "绘本-21.png",
+      "label": "第 21 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-22.jpg",
+      "source": "绘本-22.png",
+      "label": "第 22 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-23.jpg",
+      "source": "绘本-23.png",
+      "label": "第 23 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-24.jpg",
+      "source": "绘本-24.png",
+      "label": "第 24 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-25.jpg",
+      "source": "绘本-25.png",
+      "label": "第 25 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-26.jpg",
+      "source": "绘本-26.png",
+      "label": "第 26 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-27.jpg",
+      "source": "绘本-27.png",
+      "label": "第 27 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-28.jpg",
+      "source": "绘本-28.png",
+      "label": "第 28 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-29.jpg",
+      "source": "绘本-29.png",
+      "label": "第 29 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-30.jpg",
+      "source": "绘本-30.png",
+      "label": "第 30 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-31.jpg",
+      "source": "绘本-31.png",
+      "label": "第 31 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "page-32.jpg",
+      "source": "绘本-32.png",
+      "label": "第 32 页",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    },
+    {
+      "file": "back-cover.jpg",
+      "source": "封底.png",
+      "label": "封底",
+      "sourceDimensions": [
+        2481,
+        3426
+      ]
+    }
+  ],
+  "magazine": [
+    {
+      "file": "spread-02.jpg",
+      "source": "书籍编排大作业-02.jpg",
+      "spread": 2,
+      "sourceDimensions": [
+        3278,
+        2173
+      ]
+    },
+    {
+      "file": "spread-03.jpg",
+      "source": "书籍编排大作业-03.jpg",
+      "spread": 3,
+      "sourceDimensions": [
+        3070,
+        2173
+      ]
+    },
+    {
+      "file": "spread-04.jpg",
+      "source": "书籍编排大作业-04.jpg",
+      "spread": 4,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-05.jpg",
+      "source": "书籍编排大作业-05.jpg",
+      "spread": 5,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-06.jpg",
+      "source": "书籍编排大作业-06.jpg",
+      "spread": 6,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-07.jpg",
+      "source": "书籍编排大作业-07.jpg",
+      "spread": 7,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-08.jpg",
+      "source": "书籍编排大作业-08.jpg",
+      "spread": 8,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-09.jpg",
+      "source": "书籍编排大作业-09.jpg",
+      "spread": 9,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-10.jpg",
+      "source": "书籍编排大作业-10.jpg",
+      "spread": 10,
+      "sourceDimensions": [
+        3072,
+        2173
+      ]
+    },
+    {
+      "file": "spread-11.jpg",
+      "source": "书籍编排大作业-11.jpg",
+      "spread": 11,
+      "sourceDimensions": [
+        3063,
+        2173
+      ]
+    },
+    {
+      "file": "spread-12.jpg",
+      "source": "书籍编排大作业-12.jpg",
+      "spread": 12,
+      "sourceDimensions": [
+        3072,
+        2173
+      ]
+    },
+    {
+      "file": "spread-13.jpg",
+      "source": "书籍编排大作业-13.jpg",
+      "spread": 13,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-14.jpg",
+      "source": "书籍编排大作业-14.jpg",
+      "spread": 14,
+      "sourceDimensions": [
+        3071,
+        2173
+      ]
+    },
+    {
+      "file": "spread-15.jpg",
+      "source": "书籍编排大作业-15.jpg",
+      "spread": 15,
+      "sourceDimensions": [
+        3094,
+        2173
+      ]
+    },
+    {
+      "file": "spread-16.jpg",
+      "source": "书籍编排大作业-16.jpg",
+      "spread": 16,
+      "sourceDimensions": [
+        3072,
+        2173
+      ]
+    },
+    {
+      "file": "spread-17.jpg",
+      "source": "书籍编排大作业-17.jpg",
+      "spread": 17,
+      "sourceDimensions": [
+        3067,
+        2173
+      ]
+    },
+    {
+      "file": "spread-18.jpg",
+      "source": "书籍编排大作业-18.jpg",
+      "spread": 18,
+      "sourceDimensions": [
+        3075,
+        2173
+      ]
+    }
+  ]
+}
